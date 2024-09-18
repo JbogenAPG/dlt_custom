@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dlt"
+name = "dlt_custom"
 version = "1.0.0"
 description = "dlt is an open-source python-first scalable data loading library that does not require any backend to run."
 authors = ["dltHub Inc. <services@dlthub.com>"]
